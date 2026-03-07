@@ -1,5 +1,0 @@
-streamlit
-pandas
-st-supabase-connection
-fpdf2
-openpyxl
